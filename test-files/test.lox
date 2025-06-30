@@ -1,0 +1,15 @@
+/* 
+This is my test
+multiline comment
+/* 
+Nested Multiline comment
+/*
+A third nested multiline comment
+*/
+More stuff/
+*/
+End of stuff.
+*/
+var test = "stupid";
+
+var test = 1 + (5 * 2 / (3 - 5));
